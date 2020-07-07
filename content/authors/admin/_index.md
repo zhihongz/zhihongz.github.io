@@ -30,7 +30,7 @@ education:
   - course: PhD in Control Science and Engineering
     institution: Tsinghua University, Beijing, China
     year: 2019 - present
-  - course: BEng in Electronics Engineering
+  - course: BEng in Electronics and Information Engineering
     institution: Xidian University, Xi'an, China
     year: 2015 - 2019
 
