@@ -30,9 +30,6 @@ education:
   - course: PhD in Control Science and Engineering
     institution: Tsinghua University, Beijing, China
     year: 2019 - present
-#  - course: MEng in Artificial Intelligence
-#    institution: Massachusetts Institute of Technology
-#    year: 2009
   - course: BEng in Electronics Engineering
     institution: Xidian University, Xi'an, China
     year: 2015 - 2019
@@ -44,20 +41,18 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:zhangzh19@mails.tsinghua.edu.cn  # For a direct email link, use "mailto:test@example.org".
-#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+  link: mailto:zhangzh19@mails.tsinghua.edu.cn  # For a direct email link
+#  link: '#contact'  # For contact widget.
 - icon: github
   icon_pack: fab
   link: https://github.com/zhihongz
-  - icon: google-scholar
+- icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?user=Ut_E87AAAAAJ&hl=zh-CN&authuser=1
-  - icon: orcid
+- icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2959-3538
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
