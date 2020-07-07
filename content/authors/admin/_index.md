@@ -33,7 +33,7 @@ education:
 #  - course: MEng in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2009
-  - course: BEng in Electronics and Information Engineering
+  - course: BEng in Electronics Engineering
     institution: Xidian University, Xi'an, China
     year: 2015 - 2019
 
