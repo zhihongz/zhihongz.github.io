@@ -55,7 +55,7 @@ social:
   - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com.hk/citations?user=Ut_E87AAAAAJ&hl=zh-CN&authuser=1
-  - icon: ORCID
+  - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-2959-3538
 # Link to a PDF of your resume/CV from the About widget.
