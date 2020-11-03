@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include computational imaging, deep learning, and computer vision.
 
 interests:
-- Computational photography
-- Compressive imaging
-- Low light imaging
+- Computational imaging
+- Computer Vision
+- Deep learning
+- Microscopy
 
 education:
   courses:
