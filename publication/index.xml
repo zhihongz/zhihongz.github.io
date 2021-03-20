@@ -5,12 +5,20 @@
     <link>https://zhihongz.github.io/publication/</link>
       <atom:link href="https://zhihongz.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) 2021 Zhihong Zhang</copyright><lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Copyright (c) 2021 Zhihong Zhang</copyright><lastBuildDate>Sat, 20 Mar 2021 03:45:24 +0000</lastBuildDate>
     <image>
       <url>https://zhihongz.github.io/media/icon_hu2d0678536782a0487367fbe085fb7a2a_9973_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://zhihongz.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Test</title>
+      <link>https://zhihongz.github.io/publication/test/</link>
+      <pubDate>Sat, 20 Mar 2021 03:45:24 +0000</pubDate>
+      <guid>https://zhihongz.github.io/publication/test/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An example conference paper</title>
