@@ -30,12 +30,16 @@
         {%- if site.data.venues[entry.abbr].color != blank -%}
           {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
         {%- endif -%}
+        {%- if site.data.venues[entry.abbr].url != blank -%}
+          {%- assign venue_url = site.data.venues[entry.abbr].url -%}
+		{%- else -%}
+          {%- assign venue_url = '/' -%}
+        {%- endif -%}
         <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a
-            href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
+            href="{{venue_url}}">{{entry.abbr}}</a></abbr>
       {%- else -%}
         <abbr class="badge">{{entry.abbr}}</abbr>
       {%- endif -%}
-
       {%- if entry.awards -%}
         {%- assign awards = entry.awards | split: ", " -%}
         {%- for award in awards -%}
