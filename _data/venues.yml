@@ -2,6 +2,26 @@
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
   color: "#1F6ED4"
 
+"IJCV":
+  url: https://www.springer.com/journal/11263
+  color: "#ff1744"
+
+"TPAMI":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
+  color: "#651fff"
+
+"CVPR":
+  url: /
+  color: "#f06292"
+
+"ICCV":
+  url: /
+  color: "#d500f9"
+  
+ "ECCV":
+  url: /
+  color: "#42a5f5"
+  
 "PhotoniX":
   url: https://photonix.springeropen.com/
   color: "#e07730"
@@ -26,10 +46,11 @@
   url: https://aip.scitation.org/journal/app
   color: "#FF82A9"
 
-"Photonics Asia":
-  url: https://zhihongz.github.io
-  color: "#4A5D75"
 
 "Inform. Fusion":
   url: https://www.sciencedirect.com/journal/information-fusion
   color:  "#1794A5"
+
+"Photonics Asia":
+  url: /
+  color: "#4A5D75"
