@@ -340,6 +340,7 @@ enable_project_categories:  true   # enables categorization of projects into
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 enable_pub_preview:         false   # enables image/video preview for publication
+enable_jour_abbr_color:      false   # enable customized color for journal abbr badge
 
 # -----------------------------------------------------------------------------
 # Library versions

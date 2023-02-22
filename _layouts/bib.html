@@ -27,12 +27,12 @@
     {%- elsif entry.abbr -%}
       {%- if site.data.venues[entry.abbr] -%}
         {%- assign venue_style = nil -%}
-        {%- if site.data.venues[entry.abbr].color != blank -%}
+        {%- if site.enable_jour_abbr_color and site.data.venues[entry.abbr].color != blank -%}
           {%- assign venue_style = site.data.venues[entry.abbr].color | prepend: 'style="background-color:' | append: '"' -%}
         {%- endif -%}
         {%- if site.data.venues[entry.abbr].url != blank -%}
           {%- assign venue_url = site.data.venues[entry.abbr].url -%}
-		{%- else -%}
+		    {%- else -%}
           {%- assign venue_url = '/' -%}
         {%- endif -%}
         <abbr class="badge" {% if venue_style %}{{venue_style}}{% endif %}><a
@@ -229,8 +229,14 @@
         role="button">Slides</a>
       {%- endif %}
       {%- endif %}
+      {%- if entry.project %}
+      <a href="{{ entry.project }}" class="btn btn-sm z-depth-0" role="button">Project</a>
+      {%- endif %}
       {%- if entry.website %}
       <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
+      {%- endif %}
+      {%- if entry.media %}
+      <a href="{{ entry.media }}" class="btn btn-sm z-depth-0" role="button">Media</a>
       {%- endif %}
       {%- if entry.altmetric %}
       <script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>

@@ -1,9 +1,18 @@
 ---
 ---
 
-% custom bibtex keywords: abbr, desc, abstract, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, poster, slides, website, preview, altmetric, awards
-% preview format: image / mp4 video, make sure to set site.enable_pub_preview = true in config.yml
+% Custom bibtex keywords: 
+%   abbr, desc, abstract, html, pdf, supp, code, poster, slides, blog, project, website, media, arxiv, selected, bibtex_show, preview, awards, altmetric
+% Note:
+%   preview:      Show an image/mp4 video in front of a bib item, valid when site.enable_pub_preview = true in config.yml. 
+%                 If site.enable_pub_preview = false or no `preview` keyword, a journal abbr badge will show instead. 
+%                 You can set enable_jour_abbr_color=true and assign different color for different journal in _data/venues.yml.
+%   desc:         Show a bolded description below journal/conference title, for example {Spotlight Presentation [top 3%]}
+%   award:        Show supplementary tag information (like awards) below journal abbr badge, for example {Oral, Spotlight}
+%   selected:     Selected to be shown on the `about` page 
+%   bibtex_show:  Show a bibtex button for cite information
 
+% Format:
 %   abbr = {},
 %   bibtex_show = {true},
 %   selected = {true},
