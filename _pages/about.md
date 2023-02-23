@@ -6,8 +6,8 @@ subtitle: <b> Ph.D. student, Department of Automation, Tsinghua University. </b>
 
 profile:
   align: right
-  image: avatar/prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: avatar/prof_pic_rect.jpg
+  image_circular: false # crops the image to make it circular
   address: >
     <p style="font-size: 2rem; text-align: center; margin-right: 3rem;"><a href='https://github.com/zhihongz'><i class="fab fa-github"></i></a> <a href='https://scholar.google.com/citations?user=Ut_E87AAAAAJ'><i class="ai ai-google-scholar"></i></a> <a href="mailto:%7A_%7A%68%69_%68%6F%6E%67@%31%36%33.%63%6F%6D"><i class="fas fa-envelope"></i></a></p>
 
