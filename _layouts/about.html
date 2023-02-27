@@ -20,7 +20,7 @@ layout: default
               {% if page.profile.image_circular %}
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded-circle" -%}
               {% else %}
-                {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
+                {%- assign profile_image_class = "img-fluid z-depth-1 more_rounded" -%}
               {% endif %}
 
               {% include figure.html 
@@ -49,6 +49,7 @@ layout: default
 		  
 		  <!-- Selected Publications -->
           {% if page.selected_papers -%}
+            <br/>
             <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">Selected Publications</a></h2>
             {%- include selected_papers.html %}
           {%- endif %}
