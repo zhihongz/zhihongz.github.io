@@ -1,4 +1,4 @@
-"TIP":
+"IEEE TIP":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83
   color: "#1F6ED4"
 
@@ -37,7 +37,7 @@
   url: https://www.springer.com/journal/11263
   color: "#ff1744"
 
-"TPAMI":
+"IEEE TPAMI":
   url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34
   color: "#651fff"
 

@@ -1,12 +1,12 @@
 - title: Reviewer
   contents:
-    - name: Optics Express
+    - name: Opt. Express
       url: https://opg.optica.org/oe
-    - name: Photonics Research
+    - name: Photonics Res.
       url: https://opg.optica.org/prj
-    - name: IEEE Transactions on Circuits and Systems for Video Technology
+    - name: IEEE TCSVT
       url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
-    - name: The Journal of the Optical Society of America A
+    - name: JOSA A
       url: https://opg.optica.org/josaa/
 
 # - title: Editor
