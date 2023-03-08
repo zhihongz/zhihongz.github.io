@@ -17,7 +17,7 @@ services: true # include the services
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Ph.D. Student at the Broadband and Digital Media Lab (<a href='http://media.au.tsinghua.edu.cn/'>BBNC</a>), Department of Automation, Tsinghua University, advised by Prof. (<a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>).
+I’m a Ph.D. Student at the Broadband and Digital Media Lab (<a href='http://media.au.tsinghua.edu.cn/'>BBNC</a>), Department of Automation, Tsinghua University, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>.
 
 I received my B.Eng. degree from the School of Electronics Engineering, Xidian University, Xi’an, China, in 2019.
 
