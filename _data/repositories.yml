@@ -8,6 +8,4 @@ github_repos:
       - dawnlh/awesome-low-light-image-enhancement
   - topic: Snapshot compressive imaging
     repos:
-      - caiyuanhao1998/MST
-      - ucaswangls/cacti
       - Scientific-Research-Resource/SCI-algorithms

@@ -2,12 +2,12 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: Some useful projects, toolboxes, and other code repositories maintained by me or other researchers.
+description: My GitHub profile and some repositories.
 nav: true
 nav_order: 5
 ---
 
-<!-- ## GitHub users
+### GitHub Profile
 
 {% if site.data.repositories.github_users %}
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
@@ -15,8 +15,10 @@ nav_order: 5
     {% include repository/repo_user.html username=user %}
   {% endfor %}
 </div>
-{% endif %} -->
+{% endif %}
 
+
+### GitHub Repositories
 
 <!-- ## GitHub Repositories
 

@@ -48,7 +48,13 @@ body.sticky-bottom-footer {
   margin-bottom: 1rem!important;
 }
 
-// TODO: redefine publications layout.
+/*****************************************************************************
+* CV
+*****************************************************************************/
+// add margin for pdf badge on CV page
+i.fas.fa-file-pdf {
+  margin: 0.2rem;
+}
 
 
 /*****************************************************************************
