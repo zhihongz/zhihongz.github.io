@@ -17,6 +17,8 @@ nav_order: 5
 </div>
 {% endif %}
 
+---
+<br/>
 
 ### GitHub Repositories
 
@@ -33,7 +35,7 @@ nav_order: 5
 
 {% if site.data.repositories.github_repos %}
 {% for item in site.data.repositories.github_repos %}
-#### {{item.topic}}
+##### {{item.topic}}
   <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
     {% for repo in item.repos %}
       {% include repository/repo.html repository=repo %}
