@@ -3,6 +3,10 @@
   contents:
     - name: Full Name
       value: Zhihong Zhang (张志宏)
+    - name: Position
+      value: Ph.D. student
+    - name: Affiliation
+      value: Tsinghua University
     - name: Email
       value: z_zhi_hong@163.com
     - name: Address

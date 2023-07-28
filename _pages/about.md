@@ -17,10 +17,10 @@ services: true # include the services
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a Ph.D. Student at the Broadband and Digital Media Lab (<a href='http://media.au.tsinghua.edu.cn/'>BBNC</a>), Department of Automation, Tsinghua University, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>.
+I’m a Ph.D. Student at the Broadband and Digital Media Lab (<a href='http://media.au.tsinghua.edu.cn/'>BBNC</a>), Department of Automation, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>.
 
-I received my B.Eng. degree from the School of Electronics Engineering, Xidian University, Xi’an, China, in 2019.
+I received my B.Eng. degree from the School of Electronics Engineering, <a href='https://www.xidian.edu.cn/'>Xidian University</a>, in 2019.
 
-My research interests include computational imaging, machine learning, and computer vision. Specifically, I focus on high-throughput low-bandwidth computational imaging and corresponding low-level and high-level vision tasks.
+My research interests include computational imaging, computer vision, and machine learning. Specifically, I focus on high-throughput low-bandwidth computational imaging and corresponding low-level and high-level vision tasks.
 
-**Current research interests**: snapshot compressive imaging, coded exposure imaging, low-light imaging, deblurring, denoising, etc.
+**Current research interests**: coded aperture/exposure imaging, low-light imaging, high-speed imaging, deblurring, denoising, event camera, light field, metalens, etc.
