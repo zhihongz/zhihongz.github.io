@@ -2,7 +2,7 @@
     {% for content in entry.contents %}
       <li class="list-group-item">
         <div class="row">
-          <div class="col-sm-2 {% if content.badge %}preview{% else %}abbr{% endif %}">
+          <div class="col-sm-2 preview">
             {%- if content.badge -%}
               {% if content.badge contains '://' -%}
                 <img data-zoomable class="preview z-depth-1 rounded" src="{{ content.badge }}">
