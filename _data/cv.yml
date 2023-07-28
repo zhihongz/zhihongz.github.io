@@ -13,11 +13,12 @@
       value: Central Main Building, Tsinghua University
 
 - title: Education
-  type: time_table
+  type: badge_table
   contents:
     - title: Ph.D. in Control Science and Engineering
       institution: Tsinghua University, Beijing, China
       year: 2019 - present
+      badge: tsinghua.png
 #       description:
 #         - Description 1.
 #         - Description 2.
@@ -28,6 +29,7 @@
     - title: B.Eng. in Electronics and Information Engineering
       institution: Xidian University, Xi'an, China
       year: 2015 - 2019
+      badge: xidian.jpg
 #       description:
 #         - Description 1.
 #         - Description 2.
