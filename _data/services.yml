@@ -2,10 +2,10 @@
   contents:
     - name: IEEE TCSVT
       url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76
-    - name: Opt. Express
-      url: https://opg.optica.org/oe
     - name: Photonics Res.
       url: https://opg.optica.org/prj
+    - name: Opt. Express
+      url: https://opg.optica.org/oe
     - name: JOSA A
       url: https://opg.optica.org/josaa/
 
