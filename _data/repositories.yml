@@ -1,6 +1,6 @@
 github_users:
   - zhihongz
-  - dawnlh
+  # - dawnlh
 
 github_repos:
   - topic: Low-light image enhancement

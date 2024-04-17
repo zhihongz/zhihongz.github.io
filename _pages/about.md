@@ -23,4 +23,4 @@ I received my B.Eng. degree from the School of Electronics Engineering, <a href=
 
 My research interests include computational imaging, computer vision, and machine learning. Specifically, I focus on high-throughput low-bandwidth computational imaging and corresponding low-level and high-level vision tasks.
 
-**Current research interests**: coded aperture/exposure imaging, low-light imaging, high-speed imaging, deblurring, denoising, event camera, light field, metalens, etc.
+**Current research interests**: coded aperture/exposure imaging, low-light imaging, high-speed imaging, deblurring, denoising, event camera, diffusion models, etc.
