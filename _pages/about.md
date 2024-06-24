@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Ph.D. student, Department of Automation, Tsinghua University. </b>
+subtitle: Research Engineer
 
 profile:
   align: right
@@ -16,11 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 services: true # include the services
 social: true  # includes social icons at the bottom of the page
 ---
+I am an engineer specializing in computational photography and computer vision. My goal is to develop comprehensive sensing-processing-tasking frameworks that enhance the performance of both low-level and high-level vision tasks. This involves the co-design of front-end imaging systems and backend vision algorithms.
 
-I’m a Ph.D. Student at the Broadband and Digital Media Lab (<a href='http://media.au.tsinghua.edu.cn/'>BBNC</a>), Department of Automation, <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a>, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>.
+I earned my Ph.D. in Control Science and Engineering from <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a> in 2024, under the guidance of Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>. Prior to that, I obtained my B.Eng. in Electronics and Information Engineering from <a href='https://www.xidian.edu.cn/'>Xidian University</a> in 2019.
 
-I received my B.Eng. degree from the School of Electronics Engineering, <a href='https://www.xidian.edu.cn/'>Xidian University</a>, in 2019.
-
-My research interests include computational imaging, computer vision, and machine learning. Specifically, I focus on high-throughput low-bandwidth computational imaging and corresponding low-level and high-level vision tasks.
-
-**Current research interests**: coded aperture/exposure imaging, low-light imaging, high-speed imaging, deblurring, denoising, event camera, diffusion models, etc.
+My current research interests include coded aperture/exposure imaging, low-light imaging, high-speed imaging, deblurring, denoising, event cameras, and diffusion models.
