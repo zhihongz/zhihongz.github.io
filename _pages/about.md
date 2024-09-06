@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <b> Ph.D., Research Engineer. </b>
+subtitle: <b> Ph.D., Senior Algorithm Engineer. </b>
 
 profile:
   align: right
