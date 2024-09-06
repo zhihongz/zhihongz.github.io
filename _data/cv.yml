@@ -4,13 +4,13 @@
     - name: Full Name
       value: Zhihong Zhang (张志宏)
     - name: Position
-      value: Ph.D. student
+      value: Senior Algorithm Engineer
     - name: Affiliation
-      value: Tsinghua University
+      value: Xiaomi
     - name: Email
       value: z_zhi_hong@163.com
     - name: Address
-      value: Central Main Building, Tsinghua University
+      value: Shanghai, China
 
 - title: Education
   type: badge_table
