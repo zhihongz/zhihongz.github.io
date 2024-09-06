@@ -1,17 +1,1 @@
-
-// show <video> control bar
-function video_show_control(obj)
-{
-    if (!obj.hasAttribute("controls")) {
-        obj.setAttribute("controls", "")
-        }
-
-}
-
-// hide <video> control bar
-function video_hide_control(obj)
-{		
-    if (obj.hasAttribute("controls")) {
-            obj.removeAttribute("controls")
-            }
-}
+function video_show_control(t){t.hasAttribute("controls")||t.setAttribute("controls","")}function video_hide_control(t){t.hasAttribute("controls")&&t.removeAttribute("controls")}
