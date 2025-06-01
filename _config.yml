@@ -110,9 +110,9 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_nav_title: # Blog | your blog must have a title for it to be displayed in the nav bar (if it's empty, `blog` will be hidden)
-blog_external_link: # use external blog (leave empty if using the internal blog)
-blog_nav_order: 5 # the blog's order in the navbar
+blog_nav_title: 中文 # Blog | your blog must have a title for it to be displayed in the nav bar (if it's empty, `blog` will be hidden)
+blog_external_link: https://zhihongz.github.io/zhihongz_cn/ # use external blog (leave empty if using the internal blog)
+blog_nav_order: 10 # the blog's order in the navbar
 blog_name: Zhihong's Blog # blog_name will be displayed in your blog page
 blog_description: my blog for academic sharing # blog_description will be displayed in your blog page above the blog_name
 permalink: /blog/:year/:title/
