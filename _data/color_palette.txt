@@ -1,3 +1,0 @@
-palette-1 (current): #1F6ED4 #1794A5 #e07730 #16922C #3DC7BE #5F12B2  #4A5D75 #ff1744 #651fff #f06292 #d500f9 #42a5f5 | #00b8d4 #00c853 #00bfa5 #afb42b #f9a825 #dd2c00 
-
-palette-2: #f44336 #e91e63 #9c27b0 #673ab7 #3f51b5 #3f51b5 #2196f3 #03a9f4 #00bcd4 #009688 #4caf50 #8bc34a #cddc39 #eedc3e #ffc107 #ff9800 #ff5722 #795548 #9e9e9e #607d8b
