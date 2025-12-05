@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 services: true # include the services
 social: true  # includes social icons at the bottom of the page
 ---
-I am a Research Engineer specializing in computational photography and computer vision.
+I am a Research Engineer specializing in computational photography and machine learning.
 
 I completed my Ph.D. in Control Science and Engineering from <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a> in 2024, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>. My doctoral research centered on developing integrated sensing-processing-task frameworks to enhance performance across both low-level and high-level vision tasks, involving the co-design of front-end imaging systems and backend vision algorithms. Prior to my Ph.D., I received my B.Eng. in Electronics and Information Engineering from <a href='https://www.xidian.edu.cn/'>Xidian University</a> in 2019.
 
-Currently, my work focuses on AI ISP and computational photography aesthetics. I am also actively exploring emerging vision technologies and AI algorithms, including event cameras, diffusion models, and large language models (LLMs).
+Currently, my research centers on AI ISP, computational photography, and generative AI. I also actively explore emerging vision and AI techniques such as event cameras, robotics, and embodied AI.
