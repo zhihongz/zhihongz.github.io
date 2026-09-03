@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 services: true # include the services
 social: true  # includes social icons at the bottom of the page
 ---
-I'm a Research Engineer specializing in computational photography and machine learning.
+I am a Research Engineer specializing in computational photography, computer vision, and machine learning. 
 
-I completed my Ph.D. in Control Science and Engineering from <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a> in 2024, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>. My doctoral research centered on developing integrated sensing-processing-task frameworks to enhance performance across both low-level and high-level vision tasks, involving the co-design of front-end imaging systems and backend vision algorithms. Prior to my Ph.D., I received my B.Eng. in Electronics and Information Engineering from <a href='https://www.xidian.edu.cn/'>Xidian University</a> in 2019.
+I received my Ph.D. in Control Science and Engineering from <a href='https://www.tsinghua.edu.cn/'>Tsinghua University</a> in 2024, advised by Prof. <a href='https://scholar.google.com/citations?user=e4lel8QAAAAJ'>Jinli Suo</a>. My doctoral research focused on developing integrated sensing-processing-task frameworks. Specifically, I explored the co-design of front-end imaging systems and backend vision algorithms to enhance performance across both low-level and high-level vision tasks. Prior to my Ph.D., I earned my B.Eng. in Electronics and Information Engineering from <a href='https://www.xidian.edu.cn/'>Xidian University</a> in 2019.
 
-Currently, my work centers on AI ISP, computational photography, low-level computer vision, and generative AI. I also maintain a strong interest in emerging vision and AI technologies, constantly exploring new possibilities in these fields.
+Currently, my work revolves around computational photography and large vision models. I also maintain a strong interest in emerging AI technologies, including vision-language models, world models, and robotics.

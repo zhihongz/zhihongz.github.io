@@ -36,7 +36,11 @@
 "IJCV":
   url: https://www.springer.com/journal/11263
   color: "#ff1744"
-  
+
+"Comput. Visual Media":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10750449
+  color: "#55a34f"
+
 "Engineering":
   url: https://www.springer.com/journal/11263
   color: "#fd6666"
